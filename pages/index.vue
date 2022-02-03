@@ -257,6 +257,8 @@ export default {
         })
         .then(() => {
           this.successAlert()
+          this.produtos()
+          this.file=null
           this.close();
         })
         .catch(function (e) {
