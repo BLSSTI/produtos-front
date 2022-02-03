@@ -1,0 +1,72 @@
+ [
+      {
+         "title": "Notebook",
+         "type": 7,
+         "rating": "10",
+         "price": "300",
+         "description":"descrição"
+      },
+      {
+         "title": "Monitor",
+         "type": 8,
+         "rating": "6",
+         "price": "200",
+         "description":"descrição"
+      },
+      {
+         "title": "Monitor",
+         "type": 0,
+         "rating": "6",
+         "price": "300",
+         "description":"descrição"
+      },
+      {
+         "title": "Computador",
+         "type": 8,
+         "rating": "10",
+         "price": "150",
+         "description":"descrição"
+      },
+      {
+         "title": "Notebook",
+         "type": 4,
+         "rating": "8",
+         "price": "200",
+         "description":"descrição"
+      },
+      {
+         "title": "Computador",
+         "type": 3,
+         "rating": "8",
+         "price": "150",
+         "description":"descrição"
+      },
+      {
+         "title": "Computador",
+         "type": 0,
+         "rating": "10",
+         "price": "200",
+         "description":"descrição"
+      },
+      {
+         "title": "Monitor",
+         "type": 7,
+         "rating": "10",
+         "price": "150",
+         "description":"descrição"
+      },
+      {
+         "title": "Notebook",
+         "type": 0,
+         "rating": "10",
+         "price": "200",
+         "description":"descrição"
+      },
+      {
+         "title": "Monitor",
+         "type": 1,
+         "rating": "6",
+         "price": "150",
+         "description":"descrição"
+      }
+   ]
